@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read docs.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-soni-b292a8160/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Anuj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-soni-b292a8160/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
